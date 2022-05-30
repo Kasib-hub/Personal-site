@@ -1,6 +1,22 @@
-* {
-    background-color: #EDE6DB;
+body {
+    margin: 0px;
 }
+
+img {
+    height: 200px;
+}
+
+.avatar {
+    height: 125px;
+}
+
+.top {
+    background-color: #F1DDBF;
+}
+
+.middle {}
+
+.bottom {}
 
 h1 {
     color: #1D5C63;
