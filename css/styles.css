@@ -13,6 +13,9 @@
 }
 
 header {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
     background-color: #F1DDBF;
 }
 
@@ -32,7 +35,7 @@ img {
 
 .top {
     background-color: #F1DDBF;
-    height: 100vh;
+    height: 80vh;
     text-align: center;
     display: flex;
     flex-direction: column;
@@ -56,29 +59,11 @@ img {
 }
 
 .island {
-    height: 47%;
+    height: 60%;
 }
 
-.top-cloud {}
 
-<<<<<<< HEAD .bottom-cloud {}
-
-=======.top-cloud {
-    position: absolute;
-    padding-top: 50px;
-    right: 19%;
-    top: 6px;
+.middle {
+    background-color: #ffe9c6;
+    height: 900px;
 }
-
-.bottom-cloud {
-    position: absolute;
-    left: 30%;
-
-}
-
->>>>>>>19680cbf9160c3f803a116f75ec4cdea5b04fd10 .middle {
-    height: 100vh;
-    background-color: #FEFBE7;
-}
-
-.bottom {}
