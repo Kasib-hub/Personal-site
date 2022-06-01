@@ -61,9 +61,22 @@ img {
 
 .top-cloud {}
 
-.bottom-cloud {}
+<<<<<<< HEAD .bottom-cloud {}
 
-.middle {
+=======.top-cloud {
+    position: absolute;
+    padding-top: 50px;
+    right: 19%;
+    top: 6px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 30%;
+
+}
+
+>>>>>>>19680cbf9160c3f803a116f75ec4cdea5b04fd10 .middle {
     height: 100vh;
     background-color: #FEFBE7;
 }
